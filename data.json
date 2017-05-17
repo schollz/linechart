@@ -1,0 +1,15 @@
+{
+  "dataByTopic": [{
+    "topicName": "San Francisco",
+    "topic": 123,
+    "dates": [{
+        "date": "2017-01-16T16:00:00-08:00",
+        "value": 1
+      },
+      {
+        "date": "2017-01-16T17:00:00-08:00",
+        "value": 2
+      }
+    ]
+  }]
+}
